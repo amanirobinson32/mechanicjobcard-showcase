@@ -10,7 +10,19 @@ Mechanic Job Card is a local-first business application built to organize the fu
 
 ## Product Preview
 
-A screenshot gallery is included in this repository to demonstrate the dashboard, job-card workflow, inspections, estimating, invoicing, and reporting without exposing the commercial source code.
+![Mechanic Job Card dashboard](assets/dashboard.png)
+
+## Screenshots
+
+| Job Cards | Inspections |
+| --- | --- |
+| ![Job cards](assets/job-cards.png) | ![Inspections](assets/inspections.png) |
+
+| Estimates | Invoices |
+| --- | --- |
+| ![Estimates](assets/estimates.png) | ![Invoices](assets/invoices.png) |
+
+![Reports](assets/reports.png)
 
 ## The Problem
 
