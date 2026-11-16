@@ -8,6 +8,16 @@ Mechanic Job Card is a local-first business application built to organize the fu
 
 > This repository is a **public product showcase only**. The commercial application source code is kept private.
 
+## Purchase — Complete Web + Mobile Source Code
+
+**Mechanic Job Card — $69.99 USD**
+
+[Buy Mechanic Job Card on Lemon Squeezy](https://robinsonsoftwareworks.lemonsqueezy.com/checkout/buy/782dc489-4d66-445f-b272-47deceae4e3e)
+
+Purchase provides the downloadable commercial source-code package for the React web application and separate React Native mobile companion, subject to the included license. **Technical setup and customization are required.** This is not a hosted subscription or turnkey cloud service. The applications are local-first; automatic web-to-mobile data synchronization is not included.
+
+The paid source code is **not included in this public showcase repository**.
+
 ## Product Preview
 
 ![Mechanic Job Card dashboard](assets/dashboard.png)
@@ -67,7 +77,7 @@ The current version is intentionally local-first. Future commercial additions co
 
 ## Commercial Use
 
-The complete Mechanic Job Card implementation is maintained privately while the product is prepared for commercial licensing and customization.
+The complete Mechanic Job Card implementation is maintained privately and is available for purchase under a commercial source-code license.
 
 This repository demonstrates the interface, workflow design, product thinking, and development capabilities without distributing the commercial source code.
 
